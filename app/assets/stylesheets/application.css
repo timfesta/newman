@@ -14,9 +14,16 @@
  *= require_self
  */
 
-
+body {
+	background-color: #FDFDFD;
+}
 
 .pic {
 	height: 300px;
 	width: 300px;
+}
+
+.map {
+	height: 500px;
+	width: 1080px;
 }
