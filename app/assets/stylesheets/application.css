@@ -23,7 +23,11 @@ body {
 	width: 300px;
 }
 
-.map {
+/*.map {
 	height: 500px;
 	width: 1080px;
+}*/
+
+#cchip {
+	margin-bottom: 0px;
 }
